@@ -1,1 +1,2 @@
 ceci sera un fichier de qualité
+test d'une modification en direct sur github
