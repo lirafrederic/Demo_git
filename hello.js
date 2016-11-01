@@ -1,2 +1,2 @@
-1 alert("Hello!")
-2 alert("bonjour!")
+var message="Hello!"
+alert(message)
