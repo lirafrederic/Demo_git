@@ -1,1 +1,2 @@
-1 Hello.js
+1 alert("Hello!")
+2 alert("bonjour!")
