@@ -1,3 +1,0 @@
-ceci sera un fichier de qualité
-test d'une modification en direct sur github
-Maintenant depuis ma machine et c'est cool
