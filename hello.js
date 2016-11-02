@@ -4,5 +4,5 @@
 3 alert("coucou!)
 =======
 var message="Hello!";
-alert(message);
+talert(message);
 >>>>>>> mon-test
